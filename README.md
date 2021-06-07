@@ -12,7 +12,8 @@ Output after training DCGAN for 50 epochs
 Output after training DCGAN for 50 epochs
 ----
 ![dcgan on tpu](https://github.com/ravis2114/gan-tools/blob/main/output/dcgan_tpu.gif)
-at lower fps:
+
+At lower fps:
 ----
 ![dcgan on tpu at lower fps](https://github.com/ravis2114/gan-tools/blob/main/output/dcgan_tpu_fps.gif)
 
@@ -29,12 +30,10 @@ trained on TPUs
 
 License
 --
-MIT
+[MIT][link1]
 
 
-[link1]: <https://github.com/ravis2114/gan-tools/blob/main/output/dcgan.gif>
-[link2]: <https://github.com/ravis2114/gan-tools/blob/main/output/dcgan_tpu.gif>
-[link3]: <https://github.com/ravis2114/gan-tools/blob/main/output/dcgan_tpu_fps.gif>
+[link1]: <https://github.com/ravis2114/gan-tools/blob/main/LICENSE>
 [link4]: <https://github.com/ravis2114/gan-tools/blob/main/models/GPU/discriminator.h5>
 [link5]: <https://github.com/ravis2114/gan-tools/blob/main/models/GPU/generator.h5>
 [link6]: <https://github.com/ravis2114/gan-tools/blob/main/models/TPU/discriminator_tpu.h5>
