@@ -21,12 +21,15 @@ At lower fps:
 ----
 trained on GPU
 ----
-[GENERATOR][link5]
-[DISCRIMINATOR][link4]
+[generator on gpu][link5]
+
+[discriminator on gpu][link4]
+
 trained on TPUs
 ----
-[GENERATOR][link7]
-[DISCRIMINATOR][link6]
+[generator on tpu][link7]
+
+[discriminator on tpu][link6]
 
 License
 --
