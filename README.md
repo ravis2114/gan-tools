@@ -5,16 +5,16 @@ A handy tool to understand GAN architecture and use it on the go. also encompass
 ----
 Output after training DCGAN for 50 epochs
 ----
-![dcgan on gpu](link1)
+![dcgan on gpu](https://github.com/ravis2114/gan-tools/blob/main/output/dcgan.gif)
 
 ### TPU
 ----
 Output after training DCGAN for 50 epochs
 ----
-[dcgan on tpu][link2]
+![dcgan on tpu](https://github.com/ravis2114/gan-tools/blob/main/output/dcgan_tpu.gif)
 at lower fps:
 ----
-[dcgan on tpu at lower fps][link3]
+![dcgan on tpu at lower fps](https://github.com/ravis2114/gan-tools/blob/main/output/dcgan_tpu_fps.gif)
 
 ### Models
 ----
