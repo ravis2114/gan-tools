@@ -5,7 +5,7 @@ A handy tool to understand GAN architecture and use it on the go. also encompass
 ----
 Output after training DCGAN for 50 epochs
 ----
-[dcgan on gpu][link1]
+![dcgan on gpu](link1)
 
 ### TPU
 ----
